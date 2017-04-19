@@ -1,0 +1,3 @@
+ps -f
+ls
+tty
